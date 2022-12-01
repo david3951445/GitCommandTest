@@ -1,0 +1,5 @@
+Add feature 1
+Finish feature 1
+Add feature 2
+git commit -a test
+Update: release 1.3
