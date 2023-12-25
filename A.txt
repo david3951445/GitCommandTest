@@ -3,4 +3,4 @@ Finish feature 1
 Add feature 2
 git commit -a test
 Update: release 1.3
-b1b1
+commit1
